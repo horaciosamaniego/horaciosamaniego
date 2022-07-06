@@ -3,7 +3,7 @@ I’m interested in Ecoinfomatics and urban computing. As an ecologist, I am par
 
 I’m looking to collaborate on various topics going from species distribution modelling and spatial structure of urban systems. As the head of the ecoinformatica.cl lab, I am looking for students and researchers interesting in understanding issues associated to the spatial structure of social diversity. We work with an array of large datasets on sensus, mobile phone and socio-economic information for cities in Chile.
 
-I am currentlly a professor and researcher in souther Chile (Universidad Austral de Chile) in the Instituto de Conservación, Biodiversidad y Territorio. 
+I am currentlly a professor and researcher in southern Chile (Universidad Austral de Chile) in the Instituto de Conservación, Biodiversidad y Territorio. 
 
 Do not hesitate to contact me should you have any ideas for collaboration!
 
